@@ -1,2 +1,2 @@
-# GroupProject-Buoi3
+from vinh config readme
 Cập nhật bởi Nghị Trần Hữu - ngày 12/10/2025
